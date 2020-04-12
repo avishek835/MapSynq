@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mapsynq]">
+  <test name="testngTest">
+    <classes>
+      <class name="mapSynqTestFile.Login"/>
+      <class name="mapSynqTestFile.Register"/>
+      <class name="mapSynqTestFile.Incidents"/>
+    </classes>
+  </test> <!-- testngTest -->
+</suite> <!-- Failed suite [mapsynq] -->

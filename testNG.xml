@@ -1,0 +1,9 @@
+<suite name="mapsynq">
+	<test name="testngTest">
+		<classes>
+			<class name="mapSynqTestFile.Login" />
+			<class name="mapSynqTestFile.Register" />
+			<class name="mapSynqTestFile.Incidents" />
+		</classes>
+	</test>
+</suite>
